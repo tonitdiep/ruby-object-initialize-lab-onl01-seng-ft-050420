@@ -5,6 +5,7 @@ def initialize(name)
   @name = name
 end
 
+def 
 
 # def breed=(breed)
 #   @breed = breed
